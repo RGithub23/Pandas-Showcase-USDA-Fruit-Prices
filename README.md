@@ -35,10 +35,6 @@ Fruit: e.g., Apples, Bananas, Grapes
 Pandas-Showcase-USDA-Fruit-Prices.ipynb: Jupyter notebook
 
 ---
-
-## Features
-
----
 ## Requirements
 
 This Colab notebook automatically installs all necessary dependencies
