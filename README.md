@@ -38,7 +38,7 @@ Fruit: e.g., Apples, Bananas, Grapes
 
 ## Try it out in Google Colab as primarily built here!
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RGithub23/pandas_showcase_usda_fruit_prices/blob/main/pandas_showcase_usda_fruit_prices.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RGithub23/Pandas-Showcase-USDA-Fruit-Prices/blob/main/pandas_showcase_usda_fruit_prices.ipynb)
 
 ---
 
