@@ -44,3 +44,4 @@ Pandas-Showcase-USDA-Fruit-Prices.ipynb: Jupyter notebook
 This Colab notebook automatically installs all necessary dependencies
 
 ## License
+MIT License or your preferred license.  Attribution to Pandas for access to their open source model.
