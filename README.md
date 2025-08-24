@@ -4,23 +4,23 @@ This Pandas Showcase demonstrates common pandas workflows using the USDA's Fruit
 Dataset columns:
 
 Fruit: e.g., Apples, Bananas, Grapes
-Form: Fresh, canned, juice, frozen, etc.
-RetailPrice: Average retail price
-RetailPriceUnit: Unit basis (per pound, per pint, etc.)
-Yield: Fraction of edible portion
-CupEquivalentSize: Serving size (lbs or fluid ounces)
-CupEquivalentUnit: Unit type
-CupEquivalentPrice: Price per cup equivalent
-We’ll explore the dataset with Pandas:
+-Form: Fresh, canned, juice, frozen, etc.
+-RetailPrice: Average retail price
+-RetailPriceUnit: Unit basis (per pound, per pint, etc.)
+-Yield: Fraction of edible portion
+-CupEquivalentSize: Serving size (lbs or fluid ounces)
+-CupEquivalentUnit: Unit type
+-CupEquivalentPrice: Price per cup equivalent
+-We’ll explore the dataset with Pandas:
 
-Inspecting and cleaning
-Aggregating by fruit and form
-Price comparisons (fresh vs processed)
-Groupby and pivot tables
-Visualization of price distributions
-Access to public dataset: https://www.ers.usda.gov/data-products/fruit-and-vegetable-prices.
+-Inspecting and cleaning
+-Aggregating by fruit and form
+-Price comparisons (fresh vs processed)
+-Groupby and pivot tables
+-Visualization of price distributions
+-Access to public dataset: https://www.ers.usda.gov/data-products/fruit-and-vegetable-prices
 
-First one "All-Fruits - Average prices (CSV format). Can Download and upload later on.
+-First one "All-Fruits - Average prices (CSV format). Can Download and upload later on.
 
 ---
 
